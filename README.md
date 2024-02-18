@@ -1,0 +1,2 @@
+# Pkutup
+Vs üzeri repo
